@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/jcpvVN2/Screenshot-From-2026-08-15-13-55-01.png" alt="WiFiBilling Logo" width="100%" style="max-width: 900px;">
+
 # TunGuard
 
 TunGuard provides lightweight, secure, and kernel-independent networking tools built entirely in userspace.
