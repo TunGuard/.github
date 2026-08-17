@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/jcpvVN2/Screenshot-From-2026-08-15-13-55-01.png"
+<img src="https://i.ibb.co/W46ncm8C/Screenshot-From-2026-08-17-13-55-36.png"
      alt="TunGuard"
      width="100%"
      style="max-width: 900px;">
