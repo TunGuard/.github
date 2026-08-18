@@ -13,8 +13,6 @@
 [![License](https://img.shields.io/github/license/TunGuard/tanguard-binary?style=for-the-badge)](https://github.com/TunGuard/tanguard-binary/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/TunGuard/tanguard-binary?style=for-the-badge&logo=github)](https://github.com/TunGuard/tanguard-binary)
 
-[![Support TunGuard](https://img.shields.io/badge/☕%20Support%20TunGuard-FFDD00?style=for-the-badge)](https://paystack.shop/pay/tunguard)
-
 </div>
 
 ---
