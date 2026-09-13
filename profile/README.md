@@ -12,7 +12,7 @@
 [![Release](https://img.shields.io/github/v/release/TunGuard/tanguard-binary?style=for-the-badge&logo=github)](https://github.com/TunGuard/tanguard-binary/releases)
 [![License](https://img.shields.io/github/license/TunGuard/tanguard-binary?style=for-the-badge)](https://github.com/TunGuard/tanguard-binary/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/TunGuard/tanguard-binary?style=for-the-badge&logo=github)](https://github.com/TunGuard/tanguard-binary)
-
+[![Downloads](https://img.shields.io/github/downloads/TunGuard/tanguard-binary/total?style=for-the-badge&label=Downloads)](https://github.com/TunGuard/tanguard-binary/releases)
 </div>
 
 ---
