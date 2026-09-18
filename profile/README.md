@@ -13,15 +13,42 @@
 [![License](https://img.shields.io/github/license/TunGuard/tanguard-binary?style=for-the-badge)](https://github.com/TunGuard/tanguard-binary/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/TunGuard/tanguard-binary?style=for-the-badge&logo=github)](https://github.com/TunGuard/tanguard-binary)
 [![Downloads](https://img.shields.io/github/downloads/TunGuard/tanguard-binary/total?style=for-the-badge&label=Downloads)](https://github.com/TunGuard/tanguard-binary/releases)
+
+<br>
+
+### NETWORKING ECOSYSTEM
+
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white">
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white">
+<img src="https://img.shields.io/badge/DDNS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/CCTV-111111?style=for-the-badge&logo=security&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Servers-333333?style=for-the-badge&logo=serverfault&logoColor=white">
+<img src="https://img.shields.io/badge/Remote%20Access-333333?style=for-the-badge&logo=wireguard&logoColor=white">
+<img src="https://img.shields.io/badge/WISP-333333?style=for-the-badge&logo=wifi&logoColor=white">
+<img src="https://img.shields.io/badge/IoT-333333?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=cisco&logoColor=white">
+
 </div>
 
 ---
 
 ## About
 
-TunGuard is a lightweight, secure, kernel-independent WireGuard VPN server built entirely in userspace.
+**Configure once. Connect hundreds of devices.**
 
-Manage peers, generate configurations and QR codes, monitor connections, automate through the REST API, and backup or restore your server.
+TunGuard creates a private WireGuard network between routers, servers, CCTV systems, computers and remote sites.
+
+No rewriting WireGuard configs for every connection.  
+No depending on complicated NAT or port-forwarding.  
+No exposing management services to the public internet.
+
+Once devices are connected, they can communicate through the private network — **WinBox, SSH, web interfaces, CCTV, APIs and more.**
 
 ## Features
 
@@ -31,7 +58,12 @@ Manage peers, generate configurations and QR codes, monitor connections, automat
 - **QR Code Configs**
 - **Backup & Restore**
 - **SSH Gateway**
+- **Peer Monitoring**
 - **Fully Self-Hosted**
+
+## Built For
+
+**MikroTik · Linux · OpenWrt · VPS · WISP · CCTV · IoT · Remote Access · Site-to-Site Networking · DDNS**
 
 ## License
 
