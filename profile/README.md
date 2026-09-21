@@ -61,6 +61,15 @@ Once devices are connected, they can communicate through the private network —
 - **Peer Monitoring**
 - **Fully Self-Hosted**
 
+
+## Quick Start
+
+### Install the latest binary (recommended)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/TunGuard/get/main/installer.sh | bash
+```
+
 ## Built For
 
 **MikroTik · Linux · OpenWrt · VPS · WISP · CCTV · IoT · Remote Access · Site-to-Site Networking · DDNS**
