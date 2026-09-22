@@ -44,11 +44,14 @@
 
 TunGuard creates a private WireGuard network between routers, servers, CCTV systems, computers and remote sites.
 
-No rewriting WireGuard configs for every connection.  
-No depending on complicated NAT or port-forwarding.  
+No rewriting WireGuard configs for every connection.
+No depending on complicated NAT or port-forwarding.
 No exposing management services to the public internet.
 
 Once devices are connected, they can communicate through the private network — **WinBox, SSH, web interfaces, CCTV, APIs and more.**
+
+> [!NOTE]
+> TunGuard is fully self-hosted. Your VPN infrastructure and configuration remain on infrastructure you control.
 
 ## Features
 
@@ -61,14 +64,21 @@ Once devices are connected, they can communicate through the private network —
 - **Peer Monitoring**
 - **Fully Self-Hosted**
 
-
 ## Quick Start
 
-### Install the latest binary (recommended)
+### Install the latest binary
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/TunGuard/get/main/installer.sh | bash
-```
+    curl -fsSL https://raw.githubusercontent.com/TunGuard/get/main/installer.sh | bash
+
+> [!TIP]
+> The installer installs the latest release and starts the TunGuard service automatically.
+
+## Documentation
+
+[Read the TunGuard Documentation](https://tunguard.github.io/docs/)
+
+> [!NOTE]
+> Installation, configuration, client setup, administration, API usage, monitoring, migration and advanced networking are covered in the documentation.
 
 ## Built For
 
