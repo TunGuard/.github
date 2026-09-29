@@ -7,7 +7,7 @@
 
 # TunGuard
 
-**Self-hosted WireGuard VPN infrastructure, built entirely in userspace.**
+**Self-hosted networking infrastructure for WireGuard, P2P connections, and reverse proxy tunnels.**
 
 [![Release](https://img.shields.io/github/v/release/TunGuard/tanguard-binary?style=for-the-badge&logo=github)](https://github.com/TunGuard/tanguard-binary/releases)
 [![License](https://img.shields.io/github/license/TunGuard/tanguard-binary?style=for-the-badge)](https://github.com/TunGuard/tanguard-binary/blob/main/LICENSE)
@@ -29,7 +29,8 @@
 
 <img src="https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Servers-333333?style=for-the-badge&logo=serverfault&logoColor=white">
-<img src="https://img.shields.io/badge/Remote%20Access-333333?style=for-the-badge&logo=wireguard&logoColor=white">
+<img src="https://img.shields.io/badge/P2P-333333?style=for-the-badge&logo=network&logoColor=white">
+<img src="https://img.shields.io/badge/Reverse%20Proxy-333333?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/WISP-333333?style=for-the-badge&logo=wifi&logoColor=white">
 <img src="https://img.shields.io/badge/IoT-333333?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=cisco&logoColor=white">
@@ -40,22 +41,25 @@
 
 ## About
 
-**Configure once. Connect hundreds of devices.**
+**Connect networks. Expose services. Route traffic.**
 
-TunGuard creates a private WireGuard network between routers, servers, CCTV systems, computers and remote sites.
+TunGuard connects routers, servers, devices and private services through **WireGuard, P2P networking, and reverse proxy tunnels**.
 
-No rewriting WireGuard configs for every connection.
-No depending on complicated NAT or port-forwarding.
-No exposing management services to the public internet.
+No complicated NAT.
+No unnecessary port forwarding.
+No dependency on third-party infrastructure.
 
-Once devices are connected, they can communicate through the private network — **WinBox, SSH, web interfaces, CCTV, APIs and more.**
+Use TunGuard to build private networks, connect remote sites, establish P2P connections, or expose services behind NAT through a TunGuard client.
 
 > [!NOTE]
-> TunGuard is fully self-hosted. Your VPN infrastructure and configuration remain on infrastructure you control.
+> TunGuard is fully self-hosted. Your networking infrastructure and configuration remain under your control.
 
 ## Features
 
 - **Userspace WireGuard**
+- **P2P Networking**
+- **Reverse Proxy Tunnels**
+- **TunGuard Client**
 - **Web Dashboard**
 - **REST API**
 - **QR Code Configs**
@@ -78,11 +82,11 @@ Once devices are connected, they can communicate through the private network —
 [Read the TunGuard Documentation](https://tunguard.github.io/docs/)
 
 > [!NOTE]
-> Installation, configuration, client setup, administration, API usage, monitoring, migration and advanced networking are covered in the documentation.
+> Installation, configuration, client setup, administration, API usage, monitoring, P2P networking, reverse proxy tunnels and advanced networking are covered in the documentation.
 
 ## Built For
 
-**MikroTik · Linux · OpenWrt · VPS · WISP · CCTV · IoT · Remote Access · Site-to-Site Networking · DDNS**
+**MikroTik · Linux · OpenWrt · VPS · WISP · CCTV · IoT · Remote Access · P2P Networking · Reverse Proxy · Site-to-Site Networking · DDNS**
 
 ## License
 
