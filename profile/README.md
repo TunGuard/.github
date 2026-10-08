@@ -1,4 +1,11 @@
 <div align="center">
+    White Theme
+<img src="https://i.ibb.co/39YM0SHs/Screenshot-from-2026-10-08-14-32-53.png"
+     alt="TunGuard"
+     width="100%"
+     style="max-width: 900px;">
+ # Dark Theme
+<div align="center">
 
 <img src="https://i.ibb.co/zWzQPYk4/Screenshot-from-2026-10-08-14-03-44.png"
      alt="TunGuard"
