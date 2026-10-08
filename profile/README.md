@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/2Y5SJ9Ry/Gemini-Generated-Image-khg17akhg17akhg1.jpg"
+<img src="https://i.ibb.co/zWzQPYk4/Screenshot-from-2026-10-08-14-03-44.png"
      alt="TunGuard"
      width="100%"
      style="max-width: 900px;">
